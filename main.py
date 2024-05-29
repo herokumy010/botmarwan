@@ -173,4 +173,5 @@ while True:
         bot.infinity_polling()
     except Exception as e:
         print(e)
+        print('tttttthelo')
         pass
